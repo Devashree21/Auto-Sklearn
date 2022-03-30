@@ -16,3 +16,5 @@ Auto-Sklearn is a Python-based open-source toolkit for doing AutoML. It employs 
 
 For classification task - Heart disease prediction dataset available on the UCI repository (https://archive.ics.uci.edu/ml/datasets/Heart+Disease). We will use the .csv version available on kaggle (https://www.kaggle.com/ronitf/heart-disease-uci)
 For regression task - 'flights' dataset from seaborn datasets library.
+
+Details of this tutorial and model setup are discussed in my article https://www.analyticsvidhya.com/blog/2022/02/auto-sklearn-accelerate-your-machine-learning-models-with-automl/ published on Analytics Vidhya.
