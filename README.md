@@ -18,3 +18,4 @@ For classification task - Heart disease prediction dataset available on the UCI 
 For regression task - 'flights' dataset from seaborn datasets library.
 
 Details of this tutorial and model setup are discussed in my article https://www.analyticsvidhya.com/blog/2022/02/auto-sklearn-accelerate-your-machine-learning-models-with-automl/ published on Analytics Vidhya.
+f
